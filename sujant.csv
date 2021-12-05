@@ -1,0 +1,26 @@
+,id,first_name,height_feet,height_inches,last_name,position,weight_pounds,team.id,team.abbreviation,team.city,team.conference,team.division,team.full_name,team.name
+0,14,Ike,,,Anigbogu,C,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+1,25,Ron,,,Baker,G,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+2,47,Jabari,,,Bird,G,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+3,67,MarShon,,,Brooks,G,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+4,71,Lorenzo,,,Brown,G,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+5,90,Omri,,,Casspi,F,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+6,1,Alex,6.0,6.0,Abrines,G,200.0,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+7,119,Tyler,,,Davis,C,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+8,149,Keenan,,,Evans,G,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+9,179,Marcin,,,Gortat,C,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+10,1593,Andrew,,,Bogut,F,,10,GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+11,241,Amir,6.0,9.0,Johnson,C-F,240.0,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+12,392,Malachi,,,Richardson,G,,29,UTA,Utah,West,Northwest,Utah Jazz,Jazz
+13,281,Zach,,,Lofton,G,,9,DET,Detroit,East,Central,Detroit Pistons,Pistons
+14,263,Kosta,7.0,0.0,Koufos,C,245.0,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+15,382,Billy,,,Preston,F,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+16,384,Zhou,,,Qi,F-C,,11,HOU,Houston,West,Southwest,Houston Rockets,Rockets
+17,388,Zach,,,Randolph,F,,26,SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+18,430,DJ,,,Stephens,G-F,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+19,437,Milos,,,Teodosic,G,,13,LAC,LA,West,Pacific,LA Clippers,Clippers
+20,448,Gary,,,Trent Jr.,G,,25,POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+21,494,Michael,,,Smith,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+22,495,John,,,Morton,,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+23,496,Howard,,,Wright,,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+24,497,Michael,,,Ansley,,,22,ORL,Orlando,East,Southeast,Orlando Magic,Magic

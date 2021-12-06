@@ -1,6 +1,7 @@
 import pandas
 import pandas as pd
 import requests
+from openpyxl import Workbook
 import json
 
 
@@ -16,8 +17,14 @@ index = False
 #print(df)
 df.to_csv("./sujant.csv")
 
-df = pd.read_csv("jsonoutput.csv")
+#df = pd.read_csv("jsonoutput.csv")
 
-df.to_html("test2.htm", index= False)
+#df.to_html("test2.htm", index= False)
 
-html_file = df.to_html()
+#html_file = df.to_html()
+wb = Workbook()
+ws = wb.active
+with open('jsonoutput.csv', 'r') as f:
+    for row in csv.reader(f):
+        ws.append(row)
+wb.save('csvtoxl.xlsx')

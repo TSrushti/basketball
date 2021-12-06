@@ -17,14 +17,17 @@ index = False
 #print(df)
 df.to_csv("./sujant.csv")
 
+#This is for the convertion of CSV to HTML
 #df = pd.read_csv("jsonoutput.csv")
 
 #df.to_html("test2.htm", index= False)
 
 #html_file = df.to_html()
-wb = Workbook()
-ws = wb.active
-with open('jsonoutput.csv', 'r') as f:
-    for row in csv.reader(f):
-        ws.append(row)
-wb.save('csvtoxl.xlsx')
+
+# This is for the file to convert csv to xml
+#wb = Workbook()
+#ws = wb.active
+#with open('jsonoutput.csv', 'r') as f:
+ #   for row in csv.reader(f):
+  #      ws.append(row)
+#wb.save('csvtoxl.xlsx')

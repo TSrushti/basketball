@@ -24,7 +24,7 @@ df = pd.DataFrame(arr)
 mod_df = df.loc[:, ['additionalImages', 'constituents', 'measurements', 'tags']]
 for i in mod_df.columns:
     mod_df = mod_df.explode(i)
-# print(mod_df)
+print(mod_df)
 
 flat_dct = pd.json_normalize(json.loads(mod_df.to_json(orient="records")))
 # print(flat_dct.head())

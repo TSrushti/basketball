@@ -4,7 +4,6 @@ import requests
 import json
 import numpy as np
 
-
 result = requests.get("https://www.balldontlie.io/api/v1/players")
 #print(result.text)
 #df = pd.read_json("result.json")

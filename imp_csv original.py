@@ -13,6 +13,11 @@ result = requests.get("https://www.balldontlie.io/api/v1/players")
 result_in_json = result.json()
 #print(result_in_json)
 df = pandas.json_normalize(result_in_json['data'])
-index = False
+
 #print(df)
-df.to_csv("./sujant.csv")
+df.to_csv("./sujant.csv",index = False)
+
+pd.read_csv("sujant.csv")
+a.to_html("crime.htm", index= False)
+a.to_html("crime.html", index= False)
+html_file = a.to_html()

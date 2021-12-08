@@ -5,11 +5,9 @@ import csv
 
 result = requests.get(url="https://collectionapi.metmuseum.org/public/collection/v1/objects")
 var = result.json()
-# print(len(var))
 
 arr = []
 
-# getting each object details based on each object id
 for i in var['objectIDs'][:100]:
     detail = requests.get(url="https://collectionapi.metmuseum.org/public/collection/v1/objects/{}".format(i))
     objects = detail.json()

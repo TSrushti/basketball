@@ -19,7 +19,6 @@ result_in_json = result.json()
 #print(result_in_json)
 df = pandas.json_normalize(result_in_json)
 #print(df)
-
 df.to_csv("./crypto1.csv", index = False)
 
 # converting to HTML
@@ -32,16 +31,11 @@ for item in a['image']:
 a.to_html("crypto7.html", escape=False, index=False)
 html_file = a.to_html()
 
-# converting to PDF
-#config = pdfkit.configuration(wkhtmltopdf="C:\\Users\\DELL\\PycharmProjects\\basketball\\venv\\crypto3.csv")
-#pdfkit.from_string('crypto7.html', 'crypto11.pdf', configuration = config)
-#pdfkit.from_file('crypto7.html', 'crypto11.pdf', configuration = config)
-
 #converting to xml
-#if __name__ == '__main__': file = "crypto7.html"
-#with open(file, 'r', encoding = 'utf-8') as inp : htmldoc = html.fromstring(inp.read())
+if __name__ == '__main__': file = "crypto7.html"
+with open(file, 'r', encoding = 'utf-8') as inp : htmldoc = html.fromstring(inp.read())
 
-#with open("crypto22.xml", 'wb') as out : out.write(etree.tostring(htmldoc))
+with open("crypto22.xml", 'wb') as out : out.write(etree.tostring(htmldoc))
 
 #converting to PDF
 options = {
@@ -49,13 +43,31 @@ options = {
         'dpi': 400
 }
 config = pdfkit.configuration(wkhtmltopdf="C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe")
-#pdfkit.from_string('crypo7.html', 'crypo11PDF.pdf')
+pdfkit.from_string('crypo7.html', 'crypo11PDF.pdf')
 pdfkit.from_file('crypto7.html', 'crypo11PDF.pdf', configuration=config, options=options)
 
-
-# To Create pie chart
-#fig = plt.figure(figsize = (10,7))
-#plt.pie(data, labels=cryptocurrency)
-#plt.show()
-
 # To create bar chart
+df_sort = df.sort_values('current_price')
+df_sort[:20].plot(x='id', y='current_price',kind = 'bar')
+plt.title('Crypto Prices ')
+plt.xticks(rotation = 70)
+plt.ylabel('Current Price in USD')
+plt.legend(loc='best')
+for i in range(len(df_sort[:20])):
+   price = '{:.3f}'.format(df_sort[:20]['current_price'].values[i])
+plt.text(i, float(price), float(price), ha = 'center')
+plt.show()
+
+#line chart
+df_sort = df.sort_values('current_price')
+df_sort[:20].plot(x='id', y='current_price', kind = 'bar')
+line1 = df_sort[:10].plot.line(x='id', y='current_price', label="Crypto Prices")
+plt.title("line chart of Crypto Prices")
+plt.ylabel('Current Price in USD')
+plt.show()
+
+#pichart
+df_sort[:5].plot(x='id', y='current_price', kind = 'pie', labels = [x for x in df_sort[:5]['id']], autopct='%1.0f%%')
+plt.title('Crypto Prices')
+plt.legend(loc='upper left')
+plt.show()

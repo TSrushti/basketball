@@ -39,7 +39,7 @@
       <td>bitcoin</td>
       <td>btc</td>
       <td>Bitcoin</td>
-      <td>https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579</td>
+      <td><img src="https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579" width="50"/></td>
       <td>51644.000000</td>
       <td>974443459844</td>
       <td>1</td>
@@ -72,7 +72,7 @@
       <td>ethereum</td>
       <td>eth</td>
       <td>Ethereum</td>
-      <td>https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880</td>
+      <td><img src="https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880" width="50"/></td>
       <td>4410.940000</td>
       <td>522611943887</td>
       <td>2</td>
@@ -105,7 +105,7 @@
       <td>binancecoin</td>
       <td>bnb</td>
       <td>Binance Coin</td>
-      <td>https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png?1547034615</td>
+      <td><img src="https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png?1547034615" width="50"/></td>
       <td>589.800000</td>
       <td>98998618191</td>
       <td>3</td>
@@ -138,7 +138,7 @@
       <td>tether</td>
       <td>usdt</td>
       <td>Tether</td>
-      <td>https://assets.coingecko.com/coins/images/325/large/Tether-logo.png?1598003707</td>
+      <td><img src="https://assets.coingecko.com/coins/images/325/large/Tether-logo.png?1598003707" width="50"/></td>
       <td>1.000000</td>
       <td>77289632000</td>
       <td>4</td>
@@ -171,7 +171,7 @@
       <td>solana</td>
       <td>sol</td>
       <td>Solana</td>
-      <td>https://assets.coingecko.com/coins/images/4128/large/Solana.jpg?1635329178</td>
+      <td><img src="https://assets.coingecko.com/coins/images/4128/large/Solana.jpg?1635329178" width="50"/></td>
       <td>199.240000</td>
       <td>61360659747</td>
       <td>5</td>
@@ -204,7 +204,7 @@
       <td>cardano</td>
       <td>ada</td>
       <td>Cardano</td>
-      <td>https://assets.coingecko.com/coins/images/975/large/cardano.png?1547034860</td>
+      <td><img src="https://assets.coingecko.com/coins/images/975/large/cardano.png?1547034860" width="50"/></td>
       <td>1.450000</td>
       <td>46580036384</td>
       <td>6</td>
@@ -237,7 +237,7 @@
       <td>usd-coin</td>
       <td>usdc</td>
       <td>USD Coin</td>
-      <td>https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389</td>
+      <td><img src="https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389" width="50"/></td>
       <td>1.000000</td>
       <td>41000547225</td>
       <td>7</td>
@@ -270,7 +270,7 @@
       <td>ripple</td>
       <td>xrp</td>
       <td>XRP</td>
-      <td>https://assets.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1605778731</td>
+      <td><img src="https://assets.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1605778731" width="50"/></td>
       <td>0.835640</td>
       <td>39429905411</td>
       <td>8</td>
@@ -303,7 +303,7 @@
       <td>polkadot</td>
       <td>dot</td>
       <td>Polkadot</td>
-      <td>https://assets.coingecko.com/coins/images/12171/large/aJGBjJFU_400x400.jpg?1597804776</td>
+      <td><img src="https://assets.coingecko.com/coins/images/12171/large/aJGBjJFU_400x400.jpg?1597804776" width="50"/></td>
       <td>29.720000</td>
       <td>31436222038</td>
       <td>9</td>
@@ -336,7 +336,7 @@
       <td>terra-luna</td>
       <td>luna</td>
       <td>Terra</td>
-      <td>https://assets.coingecko.com/coins/images/8284/large/luna1557227471663.png?1567147072</td>
+      <td><img src="https://assets.coingecko.com/coins/images/8284/large/luna1557227471663.png?1567147072" width="50"/></td>
       <td>72.170000</td>
       <td>27920492068</td>
       <td>10</td>
@@ -369,7 +369,7 @@
       <td>dogecoin</td>
       <td>doge</td>
       <td>Dogecoin</td>
-      <td>https://assets.coingecko.com/coins/images/5/large/dogecoin.png?1547792256</td>
+      <td><img src="https://assets.coingecko.com/coins/images/5/large/dogecoin.png?1547792256" width="50"/></td>
       <td>0.181740</td>
       <td>24109203891</td>
       <td>11</td>
@@ -402,7 +402,7 @@
       <td>avalanche-2</td>
       <td>AVAX</td>
       <td>Avalanche</td>
-      <td>https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png?1604021818</td>
+      <td><img src="https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png?1604021818" width="50"/></td>
       <td>94.550000</td>
       <td>22877383979</td>
       <td>12</td>
@@ -435,7 +435,7 @@
       <td>shiba-inu</td>
       <td>shib</td>
       <td>Shiba Inu</td>
-      <td>https://assets.coingecko.com/coins/images/11939/large/shiba.png?1622619446</td>
+      <td><img src="https://assets.coingecko.com/coins/images/11939/large/shiba.png?1622619446" width="50"/></td>
       <td>0.000038</td>
       <td>20780104888</td>
       <td>13</td>
@@ -468,7 +468,7 @@
       <td>matic-network</td>
       <td>matic</td>
       <td>Polygon</td>
-      <td>https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png?1624446912</td>
+      <td><img src="https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png?1624446912" width="50"/></td>
       <td>2.490000</td>
       <td>17171262856</td>
       <td>14</td>
@@ -501,7 +501,7 @@
       <td>crypto-com-chain</td>
       <td>cro</td>
       <td>Crypto.com Coin</td>
-      <td>https://assets.coingecko.com/coins/images/7310/large/cypto.png?1547043960</td>
+      <td><img src="https://assets.coingecko.com/coins/images/7310/large/cypto.png?1547043960" width="50"/></td>
       <td>0.642897</td>
       <td>16138162011</td>
       <td>15</td>
@@ -534,7 +534,7 @@
       <td>binance-usd</td>
       <td>busd</td>
       <td>Binance USD</td>
-      <td>https://assets.coingecko.com/coins/images/9576/large/BUSD.png?1568947766</td>
+      <td><img src="https://assets.coingecko.com/coins/images/9576/large/BUSD.png?1568947766" width="50"/></td>
       <td>1.000000</td>
       <td>13385783652</td>
       <td>16</td>
@@ -567,7 +567,7 @@
       <td>wrapped-bitcoin</td>
       <td>wbtc</td>
       <td>Wrapped Bitcoin</td>
-      <td>https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1548822744</td>
+      <td><img src="https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1548822744" width="50"/></td>
       <td>51560.000000</td>
       <td>13206658390</td>
       <td>17</td>
@@ -600,7 +600,7 @@
       <td>litecoin</td>
       <td>ltc</td>
       <td>Litecoin</td>
-      <td>https://assets.coingecko.com/coins/images/2/large/litecoin.png?1547033580</td>
+      <td><img src="https://assets.coingecko.com/coins/images/2/large/litecoin.png?1547033580" width="50"/></td>
       <td>162.930000</td>
       <td>11260405100</td>
       <td>18</td>
@@ -633,7 +633,7 @@
       <td>algorand</td>
       <td>algo</td>
       <td>Algorand</td>
-      <td>https://assets.coingecko.com/coins/images/4380/large/download.png?1547039725</td>
+      <td><img src="https://assets.coingecko.com/coins/images/4380/large/download.png?1547039725" width="50"/></td>
       <td>1.750000</td>
       <td>11027567980</td>
       <td>19</td>
@@ -666,7 +666,7 @@
       <td>chainlink</td>
       <td>link</td>
       <td>Chainlink</td>
-      <td>https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1547034700</td>
+      <td><img src="https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1547034700" width="50"/></td>
       <td>20.600000</td>
       <td>9555312530</td>
       <td>20</td>
@@ -699,7 +699,7 @@
       <td>tron</td>
       <td>trx</td>
       <td>TRON</td>
-      <td>https://assets.coingecko.com/coins/images/1094/large/tron-logo.png?1547035066</td>
+      <td><img src="https://assets.coingecko.com/coins/images/1094/large/tron-logo.png?1547035066" width="50"/></td>
       <td>0.092472</td>
       <td>9433781856</td>
       <td>21</td>
@@ -732,7 +732,7 @@
       <td>bitcoin-cash</td>
       <td>bch</td>
       <td>Bitcoin Cash</td>
-      <td>https://assets.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1594689492</td>
+      <td><img src="https://assets.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1594689492" width="50"/></td>
       <td>485.170000</td>
       <td>9182238535</td>
       <td>22</td>
@@ -765,7 +765,7 @@
       <td>dai</td>
       <td>dai</td>
       <td>Dai</td>
-      <td>https://assets.coingecko.com/coins/images/9956/large/4943.png?1636636734</td>
+      <td><img src="https://assets.coingecko.com/coins/images/9956/large/4943.png?1636636734" width="50"/></td>
       <td>1.000000</td>
       <td>8958321618</td>
       <td>23</td>
@@ -798,7 +798,7 @@
       <td>terrausd</td>
       <td>ust</td>
       <td>TerraUSD</td>
-      <td>https://assets.coingecko.com/coins/images/12681/large/UST.png?1601612407</td>
+      <td><img src="https://assets.coingecko.com/coins/images/12681/large/UST.png?1601612407" width="50"/></td>
       <td>1.000000</td>
       <td>8322905358</td>
       <td>24</td>
@@ -831,7 +831,7 @@
       <td>uniswap</td>
       <td>uni</td>
       <td>Uniswap</td>
-      <td>https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png?1600306604</td>
+      <td><img src="https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png?1600306604" width="50"/></td>
       <td>17.490000</td>
       <td>7917992254</td>
       <td>25</td>
@@ -864,7 +864,7 @@
       <td>okb</td>
       <td>okb</td>
       <td>OKB</td>
-      <td>https://assets.coingecko.com/coins/images/4463/large/okb_token.png?1548386209</td>
+      <td><img src="https://assets.coingecko.com/coins/images/4463/large/okb_token.png?1548386209" width="50"/></td>
       <td>27.940000</td>
       <td>7358340336</td>
       <td>26</td>
@@ -897,7 +897,7 @@
       <td>axie-infinity</td>
       <td>axs</td>
       <td>Axie Infinity</td>
-      <td>https://assets.coingecko.com/coins/images/13029/large/axie_infinity_logo.png?1604471082</td>
+      <td><img src="https://assets.coingecko.com/coins/images/13029/large/axie_infinity_logo.png?1604471082" width="50"/></td>
       <td>109.380000</td>
       <td>7186615238</td>
       <td>27</td>
@@ -930,7 +930,7 @@
       <td>stellar</td>
       <td>xlm</td>
       <td>Stellar</td>
-      <td>https://assets.coingecko.com/coins/images/100/large/Stellar_symbol_black_RGB.png?1552356157</td>
+      <td><img src="https://assets.coingecko.com/coins/images/100/large/Stellar_symbol_black_RGB.png?1552356157" width="50"/></td>
       <td>0.291639</td>
       <td>7180073413</td>
       <td>28</td>
@@ -963,7 +963,7 @@
       <td>cosmos</td>
       <td>atom</td>
       <td>Cosmos</td>
-      <td>https://assets.coingecko.com/coins/images/1481/large/cosmos_hub.png?1555657960</td>
+      <td><img src="https://assets.coingecko.com/coins/images/1481/large/cosmos_hub.png?1555657960" width="50"/></td>
       <td>25.160000</td>
       <td>7056094306</td>
       <td>29</td>
@@ -996,7 +996,7 @@
       <td>compound-ether</td>
       <td>ceth</td>
       <td>cETH</td>
-      <td>https://assets.coingecko.com/coins/images/10643/large/ceth2.JPG?1581389598</td>
+      <td><img src="https://assets.coingecko.com/coins/images/10643/large/ceth2.JPG?1581389598" width="50"/></td>
       <td>88.210000</td>
       <td>6932086235</td>
       <td>30</td>
@@ -1029,7 +1029,7 @@
       <td>staked-ether</td>
       <td>steth</td>
       <td>Lido Staked Ether</td>
-      <td>https://assets.coingecko.com/coins/images/13442/large/steth_logo.png?1608607546</td>
+      <td><img src="https://assets.coingecko.com/coins/images/13442/large/steth_logo.png?1608607546" width="50"/></td>
       <td>4371.190000</td>
       <td>6754652762</td>
       <td>31</td>
@@ -1062,7 +1062,7 @@
       <td>vechain</td>
       <td>vet</td>
       <td>VeChain</td>
-      <td>https://assets.coingecko.com/coins/images/1167/large/VeChain-Logo-768x725.png?1547035194</td>
+      <td><img src="https://assets.coingecko.com/coins/images/1167/large/VeChain-Logo-768x725.png?1547035194" width="50"/></td>
       <td>0.096928</td>
       <td>6476560109</td>
       <td>32</td>
@@ -1095,7 +1095,7 @@
       <td>ftx-token</td>
       <td>ftt</td>
       <td>FTX Token</td>
-      <td>https://assets.coingecko.com/coins/images/9026/large/F.png?1609051564</td>
+      <td><img src="https://assets.coingecko.com/coins/images/9026/large/F.png?1609051564" width="50"/></td>
       <td>44.100000</td>
       <td>6136012846</td>
       <td>33</td>
@@ -1128,7 +1128,7 @@
       <td>elrond-erd-2</td>
       <td>egld</td>
       <td>Elrond</td>
-      <td>https://assets.coingecko.com/coins/images/12335/large/elrond3_360.png?1626341589</td>
+      <td><img src="https://assets.coingecko.com/coins/images/12335/large/elrond3_360.png?1626341589" width="50"/></td>
       <td>299.920000</td>
       <td>6024727618</td>
       <td>34</td>
@@ -1161,7 +1161,7 @@
       <td>internet-computer</td>
       <td>icp</td>
       <td>Internet Computer</td>
-      <td>https://assets.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1620703073</td>
+      <td><img src="https://assets.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1620703073" width="50"/></td>
       <td>30.560000</td>
       <td>5594412367</td>
       <td>35</td>
@@ -1194,7 +1194,7 @@
       <td>filecoin</td>
       <td>fil</td>
       <td>Filecoin</td>
-      <td>https://assets.coingecko.com/coins/images/12817/large/filecoin.png?1602753933</td>
+      <td><img src="https://assets.coingecko.com/coins/images/12817/large/filecoin.png?1602753933" width="50"/></td>
       <td>39.760000</td>
       <td>5346584286</td>
       <td>36</td>
@@ -1227,7 +1227,7 @@
       <td>decentraland</td>
       <td>mana</td>
       <td>Decentraland</td>
-      <td>https://assets.coingecko.com/coins/images/878/large/decentraland-mana.png?1550108745</td>
+      <td><img src="https://assets.coingecko.com/coins/images/878/large/decentraland-mana.png?1550108745" width="50"/></td>
       <td>3.970000</td>
       <td>5256995062</td>
       <td>37</td>
@@ -1260,7 +1260,7 @@
       <td>ethereum-classic</td>
       <td>etc</td>
       <td>Ethereum Classic</td>
-      <td>https://assets.coingecko.com/coins/images/453/large/ethereum-classic-logo.png?1547034169</td>
+      <td><img src="https://assets.coingecko.com/coins/images/453/large/ethereum-classic-logo.png?1547034169" width="50"/></td>
       <td>40.100000</td>
       <td>5256444982</td>
       <td>38</td>
@@ -1293,7 +1293,7 @@
       <td>hedera-hashgraph</td>
       <td>hbar</td>
       <td>Hedera</td>
-      <td>https://assets.coingecko.com/coins/images/3688/large/hbar.png?1637045634</td>
+      <td><img src="https://assets.coingecko.com/coins/images/3688/large/hbar.png?1637045634" width="50"/></td>
       <td>0.287484</td>
       <td>5251085512</td>
       <td>39</td>
@@ -1326,7 +1326,7 @@
       <td>the-sandbox</td>
       <td>sand</td>
       <td>The Sandbox</td>
-      <td>https://assets.coingecko.com/coins/images/12129/large/sandbox_logo.jpg?1597397942</td>
+      <td><img src="https://assets.coingecko.com/coins/images/12129/large/sandbox_logo.jpg?1597397942" width="50"/></td>
       <td>5.550000</td>
       <td>5058795335</td>
       <td>40</td>
@@ -1359,7 +1359,7 @@
       <td>theta-token</td>
       <td>theta</td>
       <td>Theta Network</td>
-      <td>https://assets.coingecko.com/coins/images/2538/large/theta-token-logo.png?1548387191</td>
+      <td><img src="https://assets.coingecko.com/coins/images/2538/large/theta-token-logo.png?1548387191" width="50"/></td>
       <td>4.850000</td>
       <td>4846203372</td>
       <td>41</td>
@@ -1392,7 +1392,7 @@
       <td>cdai</td>
       <td>cdai</td>
       <td>cDAI</td>
-      <td>https://assets.coingecko.com/coins/images/9281/large/cDAI.png?1576467585</td>
+      <td><img src="https://assets.coingecko.com/coins/images/9281/large/cDAI.png?1576467585" width="50"/></td>
       <td>0.021697</td>
       <td>4671650591</td>
       <td>42</td>
@@ -1425,7 +1425,7 @@
       <td>fantom</td>
       <td>ftm</td>
       <td>Fantom</td>
-      <td>https://assets.coingecko.com/coins/images/4001/large/Fantom.png?1558015016</td>
+      <td><img src="https://assets.coingecko.com/coins/images/4001/large/Fantom.png?1558015016" width="50"/></td>
       <td>1.680000</td>
       <td>4265906131</td>
       <td>43</td>
@@ -1458,7 +1458,7 @@
       <td>near</td>
       <td>near</td>
       <td>Near</td>
-      <td>https://assets.coingecko.com/coins/images/10365/large/near_icon.png?1601359077</td>
+      <td><img src="https://assets.coingecko.com/coins/images/10365/large/near_icon.png?1601359077" width="50"/></td>
       <td>7.470000</td>
       <td>4260451632</td>
       <td>44</td>
@@ -1491,7 +1491,7 @@
       <td>compound-usd-coin</td>
       <td>cusdc</td>
       <td>cUSDC</td>
-      <td>https://assets.coingecko.com/coins/images/9442/large/Compound_USDC.png?1567581577</td>
+      <td><img src="https://assets.coingecko.com/coins/images/9442/large/Compound_USDC.png?1567581577" width="50"/></td>
       <td>0.022343</td>
       <td>3777791952</td>
       <td>45</td>
@@ -1524,7 +1524,7 @@
       <td>magic-internet-money</td>
       <td>mim</td>
       <td>Magic Internet Money</td>
-      <td>https://assets.coingecko.com/coins/images/16786/large/mimlogopng.png?1624979612</td>
+      <td><img src="https://assets.coingecko.com/coins/images/16786/large/mimlogopng.png?1624979612" width="50"/></td>
       <td>1.010000</td>
       <td>3761510629</td>
       <td>46</td>
@@ -1557,7 +1557,7 @@
       <td>monero</td>
       <td>xmr</td>
       <td>Monero</td>
-      <td>https://assets.coingecko.com/coins/images/69/large/monero_logo.png?1547033729</td>
+      <td><img src="https://assets.coingecko.com/coins/images/69/large/monero_logo.png?1547033729" width="50"/></td>
       <td>207.290000</td>
       <td>3741339048</td>
       <td>47</td>
@@ -1590,7 +1590,7 @@
       <td>gala</td>
       <td>gala</td>
       <td>Gala</td>
-      <td>https://assets.coingecko.com/coins/images/12493/large/GALA-COINGECKO.png?1600233435</td>
+      <td><img src="https://assets.coingecko.com/coins/images/12493/large/GALA-COINGECKO.png?1600233435" width="50"/></td>
       <td>0.493611</td>
       <td>3717993642</td>
       <td>48</td>
@@ -1623,7 +1623,7 @@
       <td>bittorrent-2</td>
       <td>btt</td>
       <td>BitTorrent</td>
-      <td>https://assets.coingecko.com/coins/images/7595/large/BTT_Token_Graphic.png?1555066995</td>
+      <td><img src="https://assets.coingecko.com/coins/images/7595/large/BTT_Token_Graphic.png?1555066995" width="50"/></td>
       <td>0.003993</td>
       <td>3690612555</td>
       <td>49</td>
@@ -1656,7 +1656,7 @@
       <td>tezos</td>
       <td>xtz</td>
       <td>Tezos</td>
-      <td>https://assets.coingecko.com/coins/images/976/large/Tezos-logo.png?1547034862</td>
+      <td><img src="https://assets.coingecko.com/coins/images/976/large/Tezos-logo.png?1547034862" width="50"/></td>
       <td>4.250000</td>
       <td>3684465313</td>
       <td>50</td>
@@ -1689,7 +1689,7 @@
       <td>the-graph</td>
       <td>grt</td>
       <td>The Graph</td>
-      <td>https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png?1608145566</td>
+      <td><img src="https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png?1608145566" width="50"/></td>
       <td>0.712287</td>
       <td>3525240379</td>
       <td>51</td>
@@ -1722,7 +1722,7 @@
       <td>klay-token</td>
       <td>klay</td>
       <td>Klaytn</td>
-      <td>https://assets.coingecko.com/coins/images/9672/large/CjbT82vP_400x400.jpg?1570548320</td>
+      <td><img src="https://assets.coingecko.com/coins/images/9672/large/CjbT82vP_400x400.jpg?1570548320" width="50"/></td>
       <td>1.370000</td>
       <td>3510126749</td>
       <td>52</td>
@@ -1755,7 +1755,7 @@
       <td>iota</td>
       <td>miota</td>
       <td>IOTA</td>
-      <td>https://assets.coingecko.com/coins/images/692/large/IOTA_Swirl.png?1604238557</td>
+      <td><img src="https://assets.coingecko.com/coins/images/692/large/IOTA_Swirl.png?1604238557" width="50"/></td>
       <td>1.210000</td>
       <td>3366926215</td>
       <td>53</td>
@@ -1788,7 +1788,7 @@
       <td>leo-token</td>
       <td>leo</td>
       <td>LEO Token</td>
-      <td>https://assets.coingecko.com/coins/images/8418/large/leo-token.png?1558326215</td>
+      <td><img src="https://assets.coingecko.com/coins/images/8418/large/leo-token.png?1558326215" width="50"/></td>
       <td>3.550000</td>
       <td>3347037388</td>
       <td>54</td>
@@ -1821,7 +1821,7 @@
       <td>helium</td>
       <td>hnt</td>
       <td>Helium</td>
-      <td>https://assets.coingecko.com/coins/images/4284/large/Helium_HNT.png?1612620071</td>
+      <td><img src="https://assets.coingecko.com/coins/images/4284/large/Helium_HNT.png?1612620071" width="50"/></td>
       <td>33.270000</td>
       <td>3336901036</td>
       <td>55</td>
@@ -1854,7 +1854,7 @@
       <td>flow</td>
       <td>flow</td>
       <td>Flow</td>
-      <td>https://assets.coingecko.com/coins/images/13446/large/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png?1631696776</td>
+      <td><img src="https://assets.coingecko.com/coins/images/13446/large/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png?1631696776" width="50"/></td>
       <td>10.240000</td>
       <td>3211835854</td>
       <td>56</td>
@@ -1887,7 +1887,7 @@
       <td>eos</td>
       <td>eos</td>
       <td>EOS</td>
-      <td>https://assets.coingecko.com/coins/images/738/large/eos-eos-logo.png?1547034481</td>
+      <td><img src="https://assets.coingecko.com/coins/images/738/large/eos-eos-logo.png?1547034481" width="50"/></td>
       <td>3.280000</td>
       <td>3205015392</td>
       <td>57</td>
@@ -1920,7 +1920,7 @@
       <td>loopring</td>
       <td>lrc</td>
       <td>Loopring</td>
-      <td>https://assets.coingecko.com/coins/images/913/large/LRC.png?1572852344</td>
+      <td><img src="https://assets.coingecko.com/coins/images/913/large/LRC.png?1572852344" width="50"/></td>
       <td>2.550000</td>
       <td>3169875818</td>
       <td>58</td>
@@ -1953,7 +1953,7 @@
       <td>pancakeswap-token</td>
       <td>cake</td>
       <td>PancakeSwap</td>
-      <td>https://assets.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1629359065</td>
+      <td><img src="https://assets.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1629359065" width="50"/></td>
       <td>12.540000</td>
       <td>3087652310</td>
       <td>59</td>
@@ -1986,7 +1986,7 @@
       <td>radix</td>
       <td>xrd</td>
       <td>Radix</td>
-      <td>https://assets.coingecko.com/coins/images/4374/large/Radix.png?1629701658</td>
+      <td><img src="https://assets.coingecko.com/coins/images/4374/large/Radix.png?1629701658" width="50"/></td>
       <td>0.314130</td>
       <td>3052961689</td>
       <td>60</td>
@@ -2019,7 +2019,7 @@
       <td>olympus</td>
       <td>ohm</td>
       <td>Olympus</td>
-      <td>https://assets.coingecko.com/coins/images/14483/large/token_OHM_%281%29.png?1628311611</td>
+      <td><img src="https://assets.coingecko.com/coins/images/14483/large/token_OHM_%281%29.png?1628311611" width="50"/></td>
       <td>538.290000</td>
       <td>3046198732</td>
       <td>61</td>
@@ -2052,7 +2052,7 @@
       <td>bitcoin-cash-sv</td>
       <td>bsv</td>
       <td>Bitcoin SV</td>
-      <td>https://assets.coingecko.com/coins/images/6799/large/BSV.png?1558947902</td>
+      <td><img src="https://assets.coingecko.com/coins/images/6799/large/BSV.png?1558947902" width="50"/></td>
       <td>164.590000</td>
       <td>3014506078</td>
       <td>62</td>
@@ -2085,7 +2085,7 @@
       <td>enjincoin</td>
       <td>enj</td>
       <td>Enjin Coin</td>
-      <td>https://assets.coingecko.com/coins/images/1102/large/enjin-coin-logo.png?1547035078</td>
+      <td><img src="https://assets.coingecko.com/coins/images/1102/large/enjin-coin-logo.png?1547035078" width="50"/></td>
       <td>2.910000</td>
       <td>2714606604</td>
       <td>63</td>
@@ -2118,7 +2118,7 @@
       <td>kusama</td>
       <td>ksm</td>
       <td>Kusama</td>
-      <td>https://assets.coingecko.com/coins/images/9568/large/m4zRhP5e_400x400.jpg?1576190080</td>
+      <td><img src="https://assets.coingecko.com/coins/images/9568/large/m4zRhP5e_400x400.jpg?1576190080" width="50"/></td>
       <td>302.630000</td>
       <td>2713933066</td>
       <td>64</td>
@@ -2151,7 +2151,7 @@
       <td>aave</td>
       <td>aave</td>
       <td>Aave</td>
-      <td>https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1601374110</td>
+      <td><img src="https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1601374110" width="50"/></td>
       <td>195.050000</td>
       <td>2611045458</td>
       <td>65</td>
@@ -2184,7 +2184,7 @@
       <td>amp-token</td>
       <td>amp</td>
       <td>Amp</td>
-      <td>https://assets.coingecko.com/coins/images/12409/large/amp-200x200.png?1599625397</td>
+      <td><img src="https://assets.coingecko.com/coins/images/12409/large/amp-200x200.png?1599625397" width="50"/></td>
       <td>0.053175</td>
       <td>2566291491</td>
       <td>66</td>
@@ -2217,7 +2217,7 @@
       <td>ecash</td>
       <td>xec</td>
       <td>eCash</td>
-      <td>https://assets.coingecko.com/coins/images/16646/large/Logo_final-22.png?1628239446</td>
+      <td><img src="https://assets.coingecko.com/coins/images/16646/large/Logo_final-22.png?1628239446" width="50"/></td>
       <td>0.000133</td>
       <td>2532462003</td>
       <td>67</td>
@@ -2250,7 +2250,7 @@
       <td>blockstack</td>
       <td>stx</td>
       <td>Stacks</td>
-      <td>https://assets.coingecko.com/coins/images/2069/large/Stacks_logo_full.png?1604112510</td>
+      <td><img src="https://assets.coingecko.com/coins/images/2069/large/Stacks_logo_full.png?1604112510" width="50"/></td>
       <td>2.400000</td>
       <td>2522857846</td>
       <td>68</td>
@@ -2283,7 +2283,7 @@
       <td>maker</td>
       <td>mkr</td>
       <td>Maker</td>
-      <td>https://assets.coingecko.com/coins/images/1364/large/Mark_Maker.png?1585191826</td>
+      <td><img src="https://assets.coingecko.com/coins/images/1364/large/Mark_Maker.png?1585191826" width="50"/></td>
       <td>2686.020000</td>
       <td>2424138646</td>
       <td>69</td>
@@ -2316,7 +2316,7 @@
       <td>arweave</td>
       <td>ar</td>
       <td>Arweave</td>
-      <td>https://assets.coingecko.com/coins/images/4343/large/oRt6SiEN_400x400.jpg?1591059616</td>
+      <td><img src="https://assets.coingecko.com/coins/images/4343/large/oRt6SiEN_400x400.jpg?1591059616" width="50"/></td>
       <td>48.320000</td>
       <td>2409657054</td>
       <td>70</td>
@@ -2349,7 +2349,7 @@
       <td>quant-network</td>
       <td>qnt</td>
       <td>Quant</td>
-      <td>https://assets.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1612437252</td>
+      <td><img src="https://assets.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1612437252" width="50"/></td>
       <td>171.180000</td>
       <td>2300787269</td>
       <td>71</td>
@@ -2382,7 +2382,7 @@
       <td>thorchain</td>
       <td>rune</td>
       <td>THORChain</td>
-      <td>https://assets.coingecko.com/coins/images/6595/large/RUNE.png?1614160507</td>
+      <td><img src="https://assets.coingecko.com/coins/images/6595/large/RUNE.png?1614160507" width="50"/></td>
       <td>7.810000</td>
       <td>2296325278</td>
       <td>72</td>
@@ -2415,7 +2415,7 @@
       <td>harmony</td>
       <td>one</td>
       <td>Harmony</td>
-      <td>https://assets.coingecko.com/coins/images/4344/large/Y88JAze.png?1565065793</td>
+      <td><img src="https://assets.coingecko.com/coins/images/4344/large/Y88JAze.png?1565065793" width="50"/></td>
       <td>0.197609</td>
       <td>2254966911</td>
       <td>73</td>
@@ -2448,7 +2448,7 @@
       <td>zcash</td>
       <td>zec</td>
       <td>Zcash</td>
-      <td>https://assets.coingecko.com/coins/images/486/large/circle-zcash-color.png?1547034197</td>
+      <td><img src="https://assets.coingecko.com/coins/images/486/large/circle-zcash-color.png?1547034197" width="50"/></td>
       <td>179.490000</td>
       <td>2139653446</td>
       <td>74</td>
@@ -2481,7 +2481,7 @@
       <td>neo</td>
       <td>neo</td>
       <td>NEO</td>
-      <td>https://assets.coingecko.com/coins/images/480/large/NEO_512_512.png?1594357361</td>
+      <td><img src="https://assets.coingecko.com/coins/images/480/large/NEO_512_512.png?1594357361" width="50"/></td>
       <td>30.190000</td>
       <td>2128722750</td>
       <td>75</td>
@@ -2514,7 +2514,7 @@
       <td>huobi-btc</td>
       <td>hbtc</td>
       <td>Huobi BTC</td>
-      <td>https://assets.coingecko.com/coins/images/12407/large/Unknown-5.png?1599624896</td>
+      <td><img src="https://assets.coingecko.com/coins/images/12407/large/Unknown-5.png?1599624896" width="50"/></td>
       <td>51550.000000</td>
       <td>2050688835</td>
       <td>76</td>
@@ -2547,7 +2547,7 @@
       <td>bitcoin-cash-abc-2</td>
       <td>bcha</td>
       <td>Bitcoin Cash ABC</td>
-      <td>https://assets.coingecko.com/coins/images/13120/large/Logo_final-21.png?1624892810</td>
+      <td><img src="https://assets.coingecko.com/coins/images/13120/large/Logo_final-21.png?1624892810" width="50"/></td>
       <td>107.020000</td>
       <td>2011416041</td>
       <td>77</td>
@@ -2580,7 +2580,7 @@
       <td>basic-attention-token</td>
       <td>bat</td>
       <td>Basic Attention Token</td>
-      <td>https://assets.coingecko.com/coins/images/677/large/basic-attention-token.png?1547034427</td>
+      <td><img src="https://assets.coingecko.com/coins/images/677/large/basic-attention-token.png?1547034427" width="50"/></td>
       <td>1.350000</td>
       <td>2007343513</td>
       <td>78</td>
@@ -2613,7 +2613,7 @@
       <td>waves</td>
       <td>waves</td>
       <td>Waves</td>
-      <td>https://assets.coingecko.com/coins/images/425/large/waves.png?1548386117</td>
+      <td><img src="https://assets.coingecko.com/coins/images/425/large/waves.png?1548386117" width="50"/></td>
       <td>19.720000</td>
       <td>1969748683</td>
       <td>79</td>
@@ -2646,7 +2646,7 @@
       <td>kadena</td>
       <td>kda</td>
       <td>Kadena</td>
-      <td>https://assets.coingecko.com/coins/images/3693/large/djLWD6mR_400x400.jpg?1591080616</td>
+      <td><img src="https://assets.coingecko.com/coins/images/3693/large/djLWD6mR_400x400.jpg?1591080616" width="50"/></td>
       <td>11.980000</td>
       <td>1922154525</td>
       <td>80</td>
@@ -2679,7 +2679,7 @@
       <td>theta-fuel</td>
       <td>tfuel</td>
       <td>Theta Fuel</td>
-      <td>https://assets.coingecko.com/coins/images/8029/large/1_0YusgngOrriVg4ZYx4wOFQ.png?1553483622</td>
+      <td><img src="https://assets.coingecko.com/coins/images/8029/large/1_0YusgngOrriVg4ZYx4wOFQ.png?1553483622" width="50"/></td>
       <td>0.259102</td>
       <td>1886178774</td>
       <td>81</td>
@@ -2712,7 +2712,7 @@
       <td>holotoken</td>
       <td>hot</td>
       <td>Holo</td>
-      <td>https://assets.coingecko.com/coins/images/3348/large/Holologo_Profile.png?1547037966</td>
+      <td><img src="https://assets.coingecko.com/coins/images/3348/large/Holologo_Profile.png?1547037966" width="50"/></td>
       <td>0.010301</td>
       <td>1827498636</td>
       <td>82</td>
@@ -2745,7 +2745,7 @@
       <td>chiliz</td>
       <td>chz</td>
       <td>Chiliz</td>
-      <td>https://assets.coingecko.com/coins/images/8834/large/Chiliz.png?1561970540</td>
+      <td><img src="https://assets.coingecko.com/coins/images/8834/large/Chiliz.png?1561970540" width="50"/></td>
       <td>0.338329</td>
       <td>1802666803</td>
       <td>83</td>
@@ -2778,7 +2778,7 @@
       <td>kucoin-shares</td>
       <td>kcs</td>
       <td>KuCoin Token</td>
-      <td>https://assets.coingecko.com/coins/images/1047/large/sa9z79.png?1610678720</td>
+      <td><img src="https://assets.coingecko.com/coins/images/1047/large/sa9z79.png?1610678720" width="50"/></td>
       <td>22.870000</td>
       <td>1758054416</td>
       <td>84</td>
@@ -2811,7 +2811,7 @@
       <td>link</td>
       <td>ln</td>
       <td>LINK</td>
-      <td>https://assets.coingecko.com/coins/images/6450/large/linklogo.png?1547042644</td>
+      <td><img src="https://assets.coingecko.com/coins/images/6450/large/linklogo.png?1547042644" width="50"/></td>
       <td>267.760000</td>
       <td>1610528407</td>
       <td>85</td>
@@ -2844,7 +2844,7 @@
       <td>celsius-degree-token</td>
       <td>cel</td>
       <td>Celsius Network</td>
-      <td>https://assets.coingecko.com/coins/images/3263/large/CEL_logo.png?1609598753</td>
+      <td><img src="https://assets.coingecko.com/coins/images/3263/large/CEL_logo.png?1609598753" width="50"/></td>
       <td>3.730000</td>
       <td>1577849487</td>
       <td>86</td>
@@ -2877,7 +2877,7 @@
       <td>curve-dao-token</td>
       <td>crv</td>
       <td>Curve DAO Token</td>
-      <td>https://assets.coingecko.com/coins/images/12124/large/Curve.png?1597369484</td>
+      <td><img src="https://assets.coingecko.com/coins/images/12124/large/Curve.png?1597369484" width="50"/></td>
       <td>3.860000</td>
       <td>1507080465</td>
       <td>87</td>
@@ -2910,7 +2910,7 @@
       <td>dash</td>
       <td>dash</td>
       <td>Dash</td>
-      <td>https://assets.coingecko.com/coins/images/19/large/dash-logo.png?1548385930</td>
+      <td><img src="https://assets.coingecko.com/coins/images/19/large/dash-logo.png?1548385930" width="50"/></td>
       <td>141.500000</td>
       <td>1478565164</td>
       <td>88</td>
@@ -2943,7 +2943,7 @@
       <td>nexo</td>
       <td>nexo</td>
       <td>NEXO</td>
-      <td>https://assets.coingecko.com/coins/images/3695/large/nexo.png?1548086057</td>
+      <td><img src="https://assets.coingecko.com/coins/images/3695/large/nexo.png?1548086057" width="50"/></td>
       <td>2.610000</td>
       <td>1462586120</td>
       <td>89</td>
@@ -2976,7 +2976,7 @@
       <td>compound-governance-token</td>
       <td>comp</td>
       <td>Compound</td>
-      <td>https://assets.coingecko.com/coins/images/10775/large/COMP.png?1592625425</td>
+      <td><img src="https://assets.coingecko.com/coins/images/10775/large/COMP.png?1592625425" width="50"/></td>
       <td>230.120000</td>
       <td>1427998405</td>
       <td>90</td>
@@ -3009,7 +3009,7 @@
       <td>celo</td>
       <td>celo</td>
       <td>Celo</td>
-      <td>https://assets.coingecko.com/coins/images/11090/large/icon-celo-CELO-color-500.png?1592293590</td>
+      <td><img src="https://assets.coingecko.com/coins/images/11090/large/icon-celo-CELO-color-500.png?1592293590" width="50"/></td>
       <td>3.820000</td>
       <td>1398099140</td>
       <td>91</td>
@@ -3042,7 +3042,7 @@
       <td>msol</td>
       <td>msol</td>
       <td>Marinade staked SOL</td>
-      <td>https://assets.coingecko.com/coins/images/17752/large/PJ7Scn3.png?1629175951</td>
+      <td><img src="https://assets.coingecko.com/coins/images/17752/large/PJ7Scn3.png?1629175951" width="50"/></td>
       <td>204.360000</td>
       <td>1387118559</td>
       <td>92</td>
@@ -3075,7 +3075,7 @@
       <td>wonderland</td>
       <td>time</td>
       <td>Wonderland</td>
-      <td>https://assets.coingecko.com/coins/images/18126/large/time.PNG?1630621941</td>
+      <td><img src="https://assets.coingecko.com/coins/images/18126/large/time.PNG?1630621941" width="50"/></td>
       <td>6056.710000</td>
       <td>1382961574</td>
       <td>93</td>
@@ -3108,7 +3108,7 @@
       <td>huobi-token</td>
       <td>ht</td>
       <td>Huobi Token</td>
-      <td>https://assets.coingecko.com/coins/images/2822/large/huobi-token-logo.png?1547036992</td>
+      <td><img src="https://assets.coingecko.com/coins/images/2822/large/huobi-token-logo.png?1547036992" width="50"/></td>
       <td>8.670000</td>
       <td>1378319405</td>
       <td>94</td>
@@ -3141,7 +3141,7 @@
       <td>ecomi</td>
       <td>omi</td>
       <td>ECOMI</td>
-      <td>https://assets.coingecko.com/coins/images/4428/large/ECOMI.png?1557928886</td>
+      <td><img src="https://assets.coingecko.com/coins/images/4428/large/ECOMI.png?1557928886" width="50"/></td>
       <td>0.005499</td>
       <td>1311943888</td>
       <td>95</td>
@@ -3174,7 +3174,7 @@
       <td>decred</td>
       <td>dcr</td>
       <td>Decred</td>
-      <td>https://assets.coingecko.com/coins/images/329/large/decred.png?1547034093</td>
+      <td><img src="https://assets.coingecko.com/coins/images/329/large/decred.png?1547034093" width="50"/></td>
       <td>96.430000</td>
       <td>1306169408</td>
       <td>96</td>
@@ -3207,7 +3207,7 @@
       <td>frax</td>
       <td>frax</td>
       <td>Frax</td>
-      <td>https://assets.coingecko.com/coins/images/13422/large/frax_logo.png?1608476506</td>
+      <td><img src="https://assets.coingecko.com/coins/images/13422/large/frax_logo.png?1608476506" width="50"/></td>
       <td>1.010000</td>
       <td>1303582382</td>
       <td>97</td>
@@ -3240,7 +3240,7 @@
       <td>true-usd</td>
       <td>tusd</td>
       <td>TrueUSD</td>
-      <td>https://assets.coingecko.com/coins/images/3449/large/tusd.png?1618395665</td>
+      <td><img src="https://assets.coingecko.com/coins/images/3449/large/tusd.png?1618395665" width="50"/></td>
       <td>1.000000</td>
       <td>1291699934</td>
       <td>98</td>
@@ -3273,7 +3273,7 @@
       <td>mina-protocol</td>
       <td>mina</td>
       <td>Mina Protocol</td>
-      <td>https://assets.coingecko.com/coins/images/15628/large/JM4_vQ34_400x400.png?1621394004</td>
+      <td><img src="https://assets.coingecko.com/coins/images/15628/large/JM4_vQ34_400x400.png?1621394004" width="50"/></td>
       <td>4.050000</td>
       <td>1288620528</td>
       <td>99</td>
@@ -3306,7 +3306,7 @@
       <td>nem</td>
       <td>xem</td>
       <td>NEM</td>
-      <td>https://assets.coingecko.com/coins/images/242/large/NEM_Logo_256x256.png?1598687029</td>
+      <td><img src="https://assets.coingecko.com/coins/images/242/large/NEM_Logo_256x256.png?1598687029" width="50"/></td>
       <td>0.141004</td>
       <td>1269655329</td>
       <td>100</td>

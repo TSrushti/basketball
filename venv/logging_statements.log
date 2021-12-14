@@ -1,0 +1,12 @@
+2021-12-13 20:36:17,815:DEBUG:Starting new HTTPS connection (1): api.coingecko.com:443
+2021-12-13 20:36:18,827:DEBUG:https://api.coingecko.com:443 "GET /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h HTTP/1.1" 200 None
+2021-12-13 20:36:34,183:DEBUG:Starting new HTTPS connection (1): api.coingecko.com:443
+2021-12-13 20:36:34,380:DEBUG:https://api.coingecko.com:443 "GET /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h HTTP/1.1" 200 None
+2021-12-13 21:45:24,568:DEBUG:Starting new HTTPS connection (1): api.coingecko.com:443
+2021-12-13 21:45:26,570:DEBUG:https://api.coingecko.com:443 "GET /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h HTTP/1.1" 200 None
+2021-12-13 21:51:31,275:DEBUG:Starting new HTTPS connection (1): api.coingecko.com:443
+2021-12-13 21:51:31,859:DEBUG:https://api.coingecko.com:443 "GET /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h HTTP/1.1" 200 None
+2021-12-13 21:54:09,149:DEBUG:Starting new HTTPS connection (1): api.coingecko.com:443
+2021-12-13 21:54:09,745:DEBUG:https://api.coingecko.com:443 "GET /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h HTTP/1.1" 200 None
+2021-12-13 21:55:16,350:DEBUG:Starting new HTTPS connection (1): api.coingecko.com:443
+2021-12-13 21:55:16,859:DEBUG:https://api.coingecko.com:443 "GET /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h HTTP/1.1" 200 None

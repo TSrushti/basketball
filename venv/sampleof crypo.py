@@ -45,3 +45,23 @@ def json_to_csv():
         logging.error("Server Down")
     except ImportError as ie:
         logging.error(ie)
+
+
+def csv_to_html():
+    """
+    covert csv file to html
+    :return:
+    """
+    try:
+        a = pd.read_csv("crypto1.csv")
+        a.to_html("crypto88.html", escape = False, index = False)
+        index = 0
+        for item in a['image']:
+            a['image'].at[index] = '<img src = "' + item + '" width = 50>'
+            index = index+1
+        a.to_html("crypto88.html", escape = False, index = False)
+
+    except requests.ConnectionError:
+        logging.error("Server Down")
+    except ImportError as ie:
+        logging.error(ie)

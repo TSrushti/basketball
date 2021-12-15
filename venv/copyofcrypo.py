@@ -50,19 +50,23 @@ def csv_to_html():
    a = pd.read_csv("crypto3.csv")
    a.to_html("crypto7.htm", escape = False, index = False)
 index = 0
+ except
 for item in a['image']:
     a['image'].at[index] = '<img src = "'+ item + '" width = 50>'
     index = index+1
 a.to_html("crypto7.html", escape = False, index = False)
 html_file = a.to_html()
 
-except null exception
-logging.error(None)
+except
+
 
 
 # converting to xml
 def coverting_to_lxml():
- if __name__ == '__main__': file = "crypto7.html"
+ if __name__ != '__main__':
+     pass
+ else:
+     file = "crypto7.html"
  with open(file, 'r', encoding = 'utf-8') as inp : htmldoc= html.fromstring(inp.read())
 
  with open("crypto22.xml", 'wb') as out : out.write(etree.tostring(htmldoc))

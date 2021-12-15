@@ -22,14 +22,14 @@ df = pandas.json_normalize(result_in_json)
 df.to_csv("./crypto1.csv", index = False)
 
 # converting to HTML
-#a = pd.read_csv("crypto3.csv")
-#a.to_html("crypto7.htm", escape = False, index = False)
-#index=0
-#for item in a['image']:
- #   a['image'].at[index] = '<img src = "'+ item + '" width = 50>'
-  #  index = index+1
+a = pd.read_csv("crypto3.csv")
+a.to_html("crypto7.htm", escape = False, index = False)
+index=0
+for item in a['image']:
+    a['image'].at[index] = '<img src = "'+ item + '" width = 50>'
+    index = index+1
 #a.to_html("crypto7.html", escape = False, index = False)
-#html_file = a.to_html()
+html_file= a.to_html()
 
 #converting to xml
 #if __name__ == '__main__': file = "crypto7.html"
@@ -67,7 +67,7 @@ df.to_csv("./crypto1.csv", index = False)
 #plt.show()
 
 #pichart
-df_sort[:5].plot(x = 'id', y = 'current_price', kind = 'pie', labels = [x for x in df_sort[:7]['id']], autopct='%1.0f%%')
-plt.title('Crypto Prices')
-plt.legend(loc = 'upper left')
-plt.show()
+#df_sort[:5].plot(x = 'id', y = 'current_price', kind = 'pie', labels = [x for x in df_sort[:7]['id']], autopct='%1.0f%%')
+#plt.title('Crypto Prices')
+#plt.legend(loc = 'upper left')
+#plt.show()
